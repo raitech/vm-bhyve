@@ -1,4 +1,9 @@
-## vm-bhyve
+## vm-bhyve - a fork by Raimundo Santos (raitech)
+
+My intention is to have a dual host kind of redundancy using bhyve, CARP, and
+ZFS.
+
+## -- Below is the original README by the time of the fork --
 
 Management system for FreeBSD bhyve virtual machines
 
